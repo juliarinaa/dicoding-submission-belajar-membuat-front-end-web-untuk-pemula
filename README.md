@@ -2,7 +2,7 @@
 This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding.
 
 ## Demo
-
+https://dicoding-bookshelf-project.netlify.app/
 
 ## Tech Stack
 - HTML
