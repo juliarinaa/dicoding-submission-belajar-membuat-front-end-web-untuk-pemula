@@ -1,5 +1,5 @@
 # Dicoding Submission: Belajar Membuat Front-End Web untuk Pemula
-This project was developed as the final submission for the "Belajar Dasar Pemrograman Web" course on Dicoding.
+This project was developed as the final submission for the "Belajar Membuat Front-End Web untuk Pemula" course on Dicoding.
 
 ## Demo
 https://dicoding-bookshelf-project.netlify.app/
