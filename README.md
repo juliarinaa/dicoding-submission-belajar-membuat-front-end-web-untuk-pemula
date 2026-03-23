@@ -15,11 +15,11 @@ https://dicoding-bookshelf-project.netlify.app/
 <img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/6c7e2663-2cd0-42a3-ab09-d65b45f6857d" />
 
 ## Features
-- Add New Books
-- Edit Book Details
-- Delete Books
-- Mark as Completed / Uncompleted
-- Search Books by Title
-- Local Storage Persistence
-- Dynamic Rendering with Custom Events
-- Empty State Handling
+- Add new books
+- Edit book details
+- Delete books
+- Mark as completed / uncompleted
+- Search books by title
+- Local storage persistence
+- Dynamic rendering with custom events
+- Empty state handling
