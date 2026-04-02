@@ -1,4 +1,4 @@
-# Dicoding Submission: Belajar Membuat Front-End Web untuk Pemula
+# Bookshelf App
 This project was developed as the final submission for the "Belajar Membuat Front-End Web untuk Pemula" course on Dicoding, earning a perfect 5/5 rating upon completion by successfully meeting all evaluation criteria and recommendations.
 
 ## Demo
