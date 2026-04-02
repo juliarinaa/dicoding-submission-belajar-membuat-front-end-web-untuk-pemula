@@ -1,5 +1,5 @@
 # Dicoding Submission: Belajar Membuat Front-End Web untuk Pemula
-This project was developed as the final submission for the "Belajar Membuat Front-End Web untuk Pemula" course on Dicoding.
+This project was developed as the final submission for the "Belajar Membuat Front-End Web untuk Pemula" course on Dicoding, earning a perfect 5/5 rating upon completion by successfully meeting all evaluation criteria and recommendations.
 
 ## Demo
 https://dicoding-bookshelf-project.netlify.app/
@@ -23,3 +23,6 @@ https://dicoding-bookshelf-project.netlify.app/
 - Local storage persistence
 - Dynamic rendering with custom events
 - Empty state handling
+
+## Certificate Link
+https://www.dicoding.com/certificates/NVP7NO2VVZR0
